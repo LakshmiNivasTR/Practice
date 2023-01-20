@@ -1,0 +1,13 @@
+table,tr,td{
+    border: 2px solid white;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+input{
+    background-color:black;
+   color:white;
+}
